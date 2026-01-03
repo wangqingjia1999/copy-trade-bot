@@ -1,6 +1,6 @@
 # Solana multi-DEX copy-trading bot
 
-> Note: This repository is provided for review when applying for a Jito shred key. The codebase has been cleaned and may not be feature-complete.
+> Note: This repository is provided for review by Jito team. The codebase has been cleaned and may not be feature-complete.
 > Applicant Discord — username: lyy0.0 | userid: 845553614528708659
 
 Lightweight copy-trading bot for Solana DEX flows (PumpSwap, Raydium, Meteora, Whirlpool, Pumpfun, etc.). The current tree prioritizes trade ingestion and copy-trade signal generation; wire in your own execution once signals are emitted.
